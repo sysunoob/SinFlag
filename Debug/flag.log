@@ -1,0 +1,8 @@
+﻿  Source.cpp
+f:\系分\flag\flag\shader.h(61): warning C4101: 'infoLog': unreferenced local variable
+f:\系分\flag\flag\shader.h(60): warning C4101: 'success': unreferenced local variable
+f:\系分\flag\flag\flag.h(127): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\系分\flag\flag\flag.h(142): warning C4018: '<': signed/unsigned mismatch
+f:\系分\flag\flag\flag.h(154): warning C4018: '<': signed/unsigned mismatch
+  flag.vcxproj -> F:\系分\flag\flag\Debug\flag.exe
+  flag.vcxproj -> F:\系分\flag\flag\Debug\flag.pdb (Full PDB)
